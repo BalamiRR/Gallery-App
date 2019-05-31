@@ -16,7 +16,7 @@ export default class ImageGallery extends Component {
       require('./app/img/img4.jpg'),
       require('./app/img/img5.jpg'),
       require('./app/img/img6.jpg'),
-    ]
+    ] 
   } 
 
   setModalVisible(visible, imageKey) {
